@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Portfolio.ViewModels;
+using Portfolio.Models;
+
 
 namespace Portfolio.Controllers
 {
@@ -6,7 +9,9 @@ namespace Portfolio.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            AboutViewModel vm = new AboutViewModel();
+            
+            return View(vm);
         }
     }
 }
