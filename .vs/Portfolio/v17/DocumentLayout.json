@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\viewmodels\\contactinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\viewmodels\\contactinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Portfolio\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T19:52:02.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactInfoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\ViewModels\\ContactInfoViewModel.cs",
-              "RelativeDocumentMoniker": "Portfolio\\ViewModels\\ContactInfoViewModel.cs",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\ViewModels\\ContactInfoViewModel.cs",
-              "RelativeToolTip": "Portfolio\\ViewModels\\ContactInfoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T18:00:38.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactInfo.cs",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\ContactInfo.cs",
-              "RelativeDocumentMoniker": "Portfolio\\Models\\ContactInfo.cs",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\ContactInfo.cs",
-              "RelativeToolTip": "Portfolio\\Models\\ContactInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T18:00:20.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AboutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\ViewModels\\AboutViewModel.cs",
-              "RelativeDocumentMoniker": "Portfolio\\ViewModels\\AboutViewModel.cs",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\ViewModels\\AboutViewModel.cs",
-              "RelativeToolTip": "Portfolio\\ViewModels\\AboutViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T18:41:36.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Portfolio\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Portfolio\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T17:59:23.651Z",
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:27:05.181Z",
               "EditorCaption": ""
             }
           ]

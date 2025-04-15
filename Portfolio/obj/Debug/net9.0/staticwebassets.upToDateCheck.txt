@@ -79,6 +79,10 @@ wwwroot\img\apple-touch-icon.png
 wwwroot\img\favicon.png
 wwwroot\img\hero-bg.jpg
 wwwroot\img\logo.webp
+wwwroot\img\portfolio\Axit.png
+wwwroot\img\portfolio\college-attendance-register-system.png
+wwwroot\img\portfolio\cyoutbube.png
+wwwroot\img\portfolio\Incomplete.webp
 wwwroot\img\portfolio\portfolio-1.webp
 wwwroot\img\portfolio\portfolio-10.webp
 wwwroot\img\portfolio\portfolio-11.webp
@@ -91,6 +95,8 @@ wwwroot\img\portfolio\portfolio-6.webp
 wwwroot\img\portfolio\portfolio-7.webp
 wwwroot\img\portfolio\portfolio-8.webp
 wwwroot\img\portfolio\portfolio-9.webp
+wwwroot\img\portfolio\Tradex.png
+wwwroot\img\portfolio\World.png
 wwwroot\img\profile-img.jpg
 wwwroot\js\main.js
 wwwroot\vendor\aos\aos.cjs.js
