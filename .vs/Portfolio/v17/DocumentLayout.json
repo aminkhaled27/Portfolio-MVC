@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|c:\\users\\amink\\onedrive\\desktop\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90281851-A847-40EE-8789-25C6FB9A47E3}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "Portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T17:27:35.774Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Resume\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Resume\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Resume\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Resume\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:36:28.002Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Projects.cs",
-              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\Projects.cs",
-              "RelativeDocumentMoniker": "Portfolio\\Models\\Projects.cs",
-              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Models\\Projects.cs",
-              "RelativeToolTip": "Portfolio\\Models\\Projects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:27:05.181Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:36:16.386Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:35:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:22:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.csproj",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.csproj",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeToolTip": "Portfolio\\Portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T17:52:58.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:35:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amink\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T17:34:43.25Z"
             }
           ]
         },

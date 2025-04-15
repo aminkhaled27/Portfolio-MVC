@@ -216,9 +216,9 @@ C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebas
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.props
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Portfolio.props
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.dll
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.pdb
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
 C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

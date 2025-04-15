@@ -1,0 +1,7 @@
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\Portfolio.exe
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\Portfolio.dll
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\Portfolio.deps.json
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\Portfolio.runtimeconfig.json
+C:\Users\amink\OneDrive\Desktop\Portfolio\Portfolio\obj\Release\net9.0\win-x86\PubTmp\Out\Portfolio.pdb
